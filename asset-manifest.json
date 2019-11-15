@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/nomflix/static/js/main.cee8b6f3.chunk.js",
-    "main.js.map": "/nomflix/static/js/main.cee8b6f3.chunk.js.map",
+    "main.js": "/nomflix/static/js/main.503b2f16.chunk.js",
+    "main.js.map": "/nomflix/static/js/main.503b2f16.chunk.js.map",
     "runtime-main.js": "/nomflix/static/js/runtime-main.589bfbd2.js",
     "runtime-main.js.map": "/nomflix/static/js/runtime-main.589bfbd2.js.map",
-    "static/js/2.bb86a713.chunk.js": "/nomflix/static/js/2.bb86a713.chunk.js",
-    "static/js/2.bb86a713.chunk.js.map": "/nomflix/static/js/2.bb86a713.chunk.js.map",
+    "static/js/2.2c3fa15e.chunk.js": "/nomflix/static/js/2.2c3fa15e.chunk.js",
+    "static/js/2.2c3fa15e.chunk.js.map": "/nomflix/static/js/2.2c3fa15e.chunk.js.map",
     "index.html": "/nomflix/index.html",
-    "precache-manifest.20f595486ef7d2d8b866c90b0ac9f7b6.js": "/nomflix/precache-manifest.20f595486ef7d2d8b866c90b0ac9f7b6.js",
+    "precache-manifest.f871561ebb58a68f361b2c1ce9cce43b.js": "/nomflix/precache-manifest.f871561ebb58a68f361b2c1ce9cce43b.js",
     "service-worker.js": "/nomflix/service-worker.js",
     "static/media/noImage.png": "/nomflix/static/media/noImage.590bb924.png"
   },
   "entrypoints": [
     "static/js/runtime-main.589bfbd2.js",
-    "static/js/2.bb86a713.chunk.js",
-    "static/js/main.cee8b6f3.chunk.js"
+    "static/js/2.2c3fa15e.chunk.js",
+    "static/js/main.503b2f16.chunk.js"
   ]
 }
