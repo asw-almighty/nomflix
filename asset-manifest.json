@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "asw-almighty.github.io/nomflix/static/js/main.503b2f16.chunk.js",
-    "main.js.map": "asw-almighty.github.io/nomflix/static/js/main.503b2f16.chunk.js.map",
-    "runtime-main.js": "asw-almighty.github.io/nomflix/static/js/runtime-main.c1962a44.js",
-    "runtime-main.js.map": "asw-almighty.github.io/nomflix/static/js/runtime-main.c1962a44.js.map",
-    "static/js/2.2d254e71.chunk.js": "asw-almighty.github.io/nomflix/static/js/2.2d254e71.chunk.js",
-    "static/js/2.2d254e71.chunk.js.map": "asw-almighty.github.io/nomflix/static/js/2.2d254e71.chunk.js.map",
-    "index.html": "asw-almighty.github.io/nomflix/index.html",
-    "precache-manifest.577c6386a71b9e45b5b270f4d6b60a9c.js": "asw-almighty.github.io/nomflix/precache-manifest.577c6386a71b9e45b5b270f4d6b60a9c.js",
-    "service-worker.js": "asw-almighty.github.io/nomflix/service-worker.js",
-    "static/media/noImage.png": "asw-almighty.github.io/nomflix/static/media/noImage.590bb924.png"
+    "main.js": "/nomflix/static/js/main.08594a3a.chunk.js",
+    "main.js.map": "/nomflix/static/js/main.08594a3a.chunk.js.map",
+    "runtime-main.js": "/nomflix/static/js/runtime-main.589bfbd2.js",
+    "runtime-main.js.map": "/nomflix/static/js/runtime-main.589bfbd2.js.map",
+    "static/js/2.2c3fa15e.chunk.js": "/nomflix/static/js/2.2c3fa15e.chunk.js",
+    "static/js/2.2c3fa15e.chunk.js.map": "/nomflix/static/js/2.2c3fa15e.chunk.js.map",
+    "index.html": "/nomflix/index.html",
+    "precache-manifest.79d269e22b1ee58c82e6accb35ab9e09.js": "/nomflix/precache-manifest.79d269e22b1ee58c82e6accb35ab9e09.js",
+    "service-worker.js": "/nomflix/service-worker.js",
+    "static/media/noImage.png": "/nomflix/static/media/noImage.590bb924.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c1962a44.js",
-    "static/js/2.2d254e71.chunk.js",
-    "static/js/main.503b2f16.chunk.js"
+    "static/js/runtime-main.589bfbd2.js",
+    "static/js/2.2c3fa15e.chunk.js",
+    "static/js/main.08594a3a.chunk.js"
   ]
 }
